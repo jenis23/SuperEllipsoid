@@ -1,3 +1,5 @@
+Source code distribution Under http://creativecommons.org/licenses/by-nc/3.0/
+
 Name: Jenis Modi
 
 Email Address: jenis.modi@wsu.edu
