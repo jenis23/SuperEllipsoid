@@ -4,6 +4,7 @@ Name: Jenis Modi
 
 Email Address: jenis.modi@wsu.edu
 
+For demo/video, please goto http://jenis23.blogspot.com
 
 Project Authors:
 
